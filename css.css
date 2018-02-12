@@ -1,0 +1,30 @@
+body {
+    background: linear-gradient(to bottom right, red, yellow);
+    height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    text-align: center;
+}
+
+h1{
+    font-size: 50px;
+    font-family: "American Typewriter", serif;
+
+}
+
+p{
+    font-family: "American Typewriter", serif;
+    font-size: 30px;
+
+}
+
+#thanks{
+    height: 100px;
+}
+
+#brain{
+    margin-right:auto;
+    margin-left: auto;
+    height: 500px;
+}
